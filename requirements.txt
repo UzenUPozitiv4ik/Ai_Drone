@@ -1,0 +1,13 @@
+dronekit-python==2.9.2
+pymavlink==2.4.37
+opencv-python==4.7.0.72
+opencv-contrib-python==4.7.0.72
+numpy==1.24.3
+paho-mqtt==2.2.1
+pyserial==3.5
+geopy==2.3.0
+matplotlib==3.7.1
+scikit-learn==1.2.2
+geopandas==0.13.0
+torch==2.0.1
+torchvision==0.15.2 
